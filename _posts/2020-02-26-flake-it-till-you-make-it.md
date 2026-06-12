@@ -5,7 +5,7 @@ subtitle: From Trade Theory to Data - My Undergraduate Research on Canadian Agri
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [document, test]
+tags: [document]
 author: Ingrid Diaz
 ---
 
